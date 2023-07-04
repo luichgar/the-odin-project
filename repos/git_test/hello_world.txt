@@ -1,0 +1,5 @@
+Hello world test.
+Hi to luichga's github profile.
+
+Testing git config --global core.editor "code --wait"
+
