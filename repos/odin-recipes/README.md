@@ -1,0 +1,6 @@
+### project 1
+
+#The Odin Project - Odin Recipes
+
+In this project i will be working with html basics to build a website about recipes. 
+Also will be using the knowledge about git and github learned in the past lessons.
