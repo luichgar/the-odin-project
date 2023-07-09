@@ -1,5 +1,4 @@
-#The Odin Project - Odin Recipes
-
+# The Odin Project - Odin Recipes
 ### project 1
 
 In this project i will be working with html basics to build a website about recipes. 
